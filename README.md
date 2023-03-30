@@ -2,7 +2,9 @@
   <p align="center"> 
   <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=jhcho4785" />
   </p>
-<br>
+  
+  #
+  
   <p align="center"> 
    ⚙ Tech Stack <br><br>
   </p>
@@ -25,7 +27,4 @@
  <br><br>
 <p align ="center">
   
-  #
-  
-  <br> 
 </div>
